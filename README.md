@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hepemirko
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning Javascript, AngularJS, NestJS, React and Redux.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫
 
